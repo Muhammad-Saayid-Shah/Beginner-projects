@@ -17,17 +17,17 @@ Error Handling: Try-except blocks, input validation
 Game Development: Randomization, game logic, user interaction.
 
 STRUCTURE OF FOLDER:
-python-simple-projects/
-│
-├── Project1_TO_DO_LIST.PY
-├── Project2_NUM_GUESS_GAME.PY
-├── Project3_UNIT_CONVERTER.PY
-├── Project4_DIGITAL_CLOCK.PY
-├── Project5_READ_WRITE_CSV_AND_EXCEL.PY
-├── Project6_RE_AND_WRI_CSV.PY.md
-├── Project7_FETCH_AND_PROCESS_API.PYd
-├── Project8_WEATHER_APP.PY
-├── Project9_R_T_CURRENCY_CONVER.PY
-├── Project10_rock_game.py
-├── README.md
-└── requirements.txt
+python-simple-projects
+    README.md
+    requirements.txt/
+──> Project1_TO_DO_LIST.PY
+──> Project2_NUM_GUESS_GAME.PY
+──> Project3_UNIT_CONVERTER.PY
+──> Project4_DIGITAL_CLOCK.PY
+──>Project5_READ_WRITE_CSV_AND_EXCEL.PY
+──> Project6_RE_AND_WRI_CSV.PY.md
+──> Project7_FETCH_AND_PROCESS_API.PYd
+──> Project8_WEATHER_APP.PY
+──> Project9_R_T_CURRENCY_CONVER.PY
+──> Project10_rock_game.py
+    
